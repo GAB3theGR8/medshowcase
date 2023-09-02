@@ -16,7 +16,7 @@ function App() {
     </div>
     <Navbar />
 
-      <Route path="/">
+      <Route path="/" exact>
         <Home />
       </Route>
       <Route path="/patientIntake">
@@ -32,10 +32,6 @@ function App() {
         <Privacy />
       </Route>
     </Router>
-    
-    
-
-    <Privacy />
     </>
   );
 }

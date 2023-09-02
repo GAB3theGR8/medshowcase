@@ -1,0 +1,23 @@
+.comments {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 300px;
+    margin: 20px auto;
+}
+
+textarea {
+    max-width: 75%;
+    height: 200px;
+    margin: 0 auto;
+}
+
+h4 {
+    margin: 10px auto;
+}
+
+.buttonSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

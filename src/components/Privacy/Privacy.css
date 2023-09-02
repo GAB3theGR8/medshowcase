@@ -1,0 +1,12 @@
+.privacy {
+    display: flex;
+    max-width: 50%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.btn {
+    margin: 20px;
+}
