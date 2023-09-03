@@ -2,8 +2,14 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 300px;
-    margin: 20px auto;
+    height: auto;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.commentHistory {
+    width: 75%;
+    margin: 0 auto;
 }
 
 textarea {

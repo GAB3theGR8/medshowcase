@@ -8,7 +8,6 @@ import Schedule from './components/Schedule/Schedule';
 function Home() {
   return (
     <div>
-      <h4>Home</h4>
     <PatientIntake />
     <PatientList />
     <Schedule />

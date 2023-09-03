@@ -1,0 +1,43 @@
+.intakeBody {
+    background-color: white;
+    padding: 20px;
+}
+
+.patient-container {
+    background-color: white;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.patient-container h4 {
+    text-align: center;
+}
+
+.form {
+    width: 90%;
+    height: 650px;
+    background-color: white;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.patient-container form .fields {
+    display: flex;
+    justify-content: space-around;
+    align-items: space-between;
+    flex-wrap: wrap;
+}
+
+.input-field {
+    margin: 20px;
+}
+
+.addressIns {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
